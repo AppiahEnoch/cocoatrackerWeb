@@ -1,0 +1,23 @@
+{
+  "name": "cocoa-tracker",
+  "version": "1.0.0",
+  "description": "a project work app for tracking farmer cocoa submission",
+  "main": "cocoaTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppiahEnoch/cocoatrackerWeb.git"
+  },
+  "keywords": [
+    "cocoa",
+    "tracker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AppiahEnoch/cocoatrackerWeb/issues"
+  },
+  "homepage": "https://github.com/AppiahEnoch/cocoatrackerWeb#readme"
+}
