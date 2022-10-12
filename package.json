@@ -2,10 +2,10 @@
   "name": "cocoa-tracker",
   "version": "1.0.0",
   "description": "a project work app for tracking farmer cocoa submission",
-  "main": "cocoaTracker.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cocoaTracker.js"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
